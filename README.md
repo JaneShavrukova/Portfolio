@@ -17,7 +17,7 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 ---
 
 ### 🎮 2048 Game  
-- **Tech Stack:** JavaScript (ES6+), HTML, CSS  
+- **Tech Stack:** JavaScript, HTML, CSS  
 - **Description:** A classic puzzle game with smooth gameplay and custom game logic for merging cells and scoring.  
 - **Key Features:** Interactive UI, responsive layout, and dynamic state management.  
 - **🔗 Live Demo:** [Play Game](https://janeshavrukova.github.io/2048-game)  
