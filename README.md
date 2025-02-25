@@ -1,4 +1,6 @@
-# 💻 My coding journey 
+# ✨Shavrukova Yevheniia
+
+## 💻 My coding journey 
 Welcome to my front-end development portfolio! Here, you'll find projects showcasing my skills in JavaScript, React, and modern web development.
 
 ---
@@ -32,9 +34,10 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 
 ---
 
-## 📫 Let's Connect!  
-- 🌐 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- 💾 **GitHub:** [github.com/janeshavrukova](https://github.com/janeshavrukova)  
-- 📧 **Email:** eva.shavrukova@gmail.com  
+## 📫 Let's Connect!
 
-Feel free to reach out — I'm always open to new opportunities and collaborations! 🚀
+- 🌐 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/yevheniia-shavrukova)  
+- 💾 [**View my GitHub Projects**](https://github.com/JaneShavrukova)  
+- 📧 [**Email**](mailto:eva.shavrukova@gmail.com)  
+
+🚀 Let's build something amazing together!
