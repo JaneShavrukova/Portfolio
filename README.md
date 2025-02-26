@@ -20,14 +20,14 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 - **Tech Stack:** JavaScript, HTML, CSS  
 - **Description:** A classic puzzle game with smooth gameplay and custom game logic for merging cells and scoring.  
 - **Key Features:** Interactive UI, responsive layout, and dynamic state management.  
-- **🔗 Live Demo:** [Play Game](https://janeshavrukova.github.io/2048-game)  
-- 💾 **GitHub Repo:** [View Code](https://github.com/janeshavrukova/2048-game)  
+- **🔗 Live Demo:** [Play Game](https://janeshavrukova.github.io/2048-game/)  
+- 💾 **GitHub Repo:** [View Code](https://github.com/JaneShavrukova/2048-game)
 
 ---
 
 ### 🖥️ BOSE Landing Page  
 - **Tech Stack:** HTML, CSS (SASS), JavaScript  
-- **Description:** A responsive landing page with clean design, smooth animations, and interactive contact links.  
+- **Description:** A responsive landing page with a clean design, smooth animations, and interactive contact links.  
 - **Key Features:** BEM methodology, cross-browser compatibility, and responsive design.  
 - **🔗 Live Demo:** [Visit Page](https://janeshavrukova.github.io/bose-landing-page)  
 - 💾 **GitHub Repo:** [View Code](https://github.com/janeshavrukova/bose-landing-page)  
