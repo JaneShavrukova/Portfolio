@@ -11,7 +11,6 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 - **Tech Stack:** React, Redux, TypeScript, React Router, CSS Modules, SCSS  
 - **Description:** A dynamic product catalog featuring a shopping cart, favorites, filtering, and pagination.  
 - **Key Features:** Data fetching via Fetch API, responsive design, state persistence with LocalStorage.
-
 - **Planned Features:**
   - Sorting by price, name, and release date
   - Filtering by category, brand, and price range
