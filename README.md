@@ -7,20 +7,15 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 
 ## 📁 Projects Overview
 
-### 🛒 React Product Catalog  *(In Progress)*  
-- **Tech Stack:** React, Redux, TypeScript, React Router, CSS Modules, SCSS.
-- **Description:** A dynamic product catalog featuring a shopping cart, favorites, filtering, and pagination.
-- **Key Features:** Data fetching via Fetch API, responsive design, state persistence with LocalStorage.
-- **Planned Features:**
-  - Sorting by price, name, and release date
-  - Filtering by category, brand, and price range
-  - Product details page with image gallery
-  - "You may also like" recommendations
-  - Multi-language support
-  - Dark mode  
+### 🛒 React Product Catalog
+- **Tech Stack:** React, TypeScript, Redux Toolkit, Redux Persist, React Router, Context API, SCSS, CSS Modules, Vite.
+- **Description:**  A responsive e-commerce web application featuring dynamic routing, product details, shopping cart, favorites, sorting, and pagination, built with modern component architecture and best practices.
+- **Key Features:** A responsive e-commerce web application featuring dynamic routing and product pages, a banner slider, related product recommendations, global state management with Redux Toolkit and Context API, persistent cart and favorites, sorting and filtering with URL persistence, error handling, and smooth animations.
+- **Planned Features:** Skeleton loading, multi-language support, theme switching (light/dark mode).
+ 
 
-- **🔗 Live Demo:** [View Project](https://janeshavrukova.github.io/e-commerce-catalog/#/)
-- 💾 **GitHub Repo:** [View Code](https://github.com/JaneShavrukova/e-commerce-catalog)
+- **🔗 Live Demo:** [View Project](https://janeshavrukova.github.io/nice-gadgets-store/)
+- 💾 **GitHub Repo:** [View Code](https://github.com/JaneShavrukova/nice-gadgets-store)
 
 ---
 
