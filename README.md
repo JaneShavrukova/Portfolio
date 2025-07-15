@@ -7,7 +7,7 @@ Welcome to my front-end development portfolio! Here, you'll find projects showca
 
 ## 📁 Projects Overview
 
-### 🛒 React Product Catalog
+### 🛒 Nice Gadgets Store
 - **Tech Stack:** React, TypeScript, Redux Toolkit, Redux Persist, React Router, Context API, SCSS, CSS Modules, Vite.
 - **Description:**  A responsive e-commerce web application featuring dynamic routing, product details, shopping cart, favorites, sorting, and pagination, built with modern component architecture and best practices.
 - **Key Features:** A responsive e-commerce web application featuring dynamic routing and product pages, a banner slider, related product recommendations, global state management with Redux Toolkit and Context API, persistent cart and favorites, sorting and filtering with URL persistence, error handling, and smooth animations.
