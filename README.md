@@ -1,7 +1,7 @@
 # ✨Yevheniia Shavrukova
 
 ## 💻 My coding journey 
-Welcome to my front-end development portfolio! Here, you'll find projects showcasing my skills in JavaScript, React, and modern web development.
+Welcome to my front-end development portfolio! Here, you'll find projects showcasing my skills in JavaScript, TypeScript, React, and modern web development.
 
 ---
 
